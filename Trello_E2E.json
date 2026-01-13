@@ -676,7 +676,7 @@
 	],
 	"variable": [
 		{
-			"key": "BoardTitle ",
+			"key": "BoardTitle",
 			"value": ""
 		},
 		{
@@ -701,7 +701,7 @@
 		},
 		{
 			"key": "cardName",
-			"value": "Nie działą system logowania "
+			"value": "Nie działa system logowania"
 		},
 		{
 			"key": "cardID",
@@ -709,11 +709,11 @@
 		},
 		{
 			"key": "updateCardName",
-			"value": "Działą system rejestracji "
+			"value": "Działa system rejestracji"
 		},
 		{
 			"key": "updateCardDesc",
-			"value": "wszystko działa poprawnie "
+			"value": "Wszystko działa poprawnie "
 		}
 	]
 }
