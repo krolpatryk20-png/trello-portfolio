@@ -28,6 +28,7 @@ This repository contains an automated End-to-End (E2E) testing suite for the **T
     - `token`: Your Trello API Token
     - `BaseUrlTrello`: `https://api.trello.com/1`
 4.  Run the collection using Postman Runner.
+5.  Newman run trello_e2e_collection.json
 
 > **Note:** The goal of this project is to demonstrate practical API testing skills required for a Junior QA role.
 
